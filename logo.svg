@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Yahya Tech">
+  <defs>
+    <linearGradient id="shield" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset=".55" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#f43f5e"/>
+    </linearGradient>
+    <linearGradient id="bolt" x1="20" y1="10" x2="44" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#facc15"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 2 58 11v18c0 15-11 27-26 33C17 56 6 44 6 29V11Z" fill="#0f1b2e" stroke="url(#shield)" stroke-width="2.6"/>
+  <path d="M15 37h8l4-9 6 17 4-8h12v4h-9l-7 14-6-17-1 2H15Z" fill="#22d3ee"/>
+  <path d="M35 10 20 31h10l-3 14 17-23H33Z" fill="url(#bolt)"/>
+</svg>
